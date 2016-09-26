@@ -1,4 +1,22 @@
-h1 {font-family: "Indentifont", sans-serif;
+
+
+
+    
+h1 {
+        font-family: "Amatic+SC", cursive, sans-serif;
+
+        src: url(/Users/Chrystia/Desktop/SullivanWebsite/amatic/Amatic-Bold.ttf);
+        font-size: 48px;
+
+    color: navy;
+    margin-left: 20px;
+}
+
+div {
+   font-family: "Amatic+SC";
+}
+
+{font-family: "Caslon", serif;
 }
 
 body {

@@ -1,15 +1,19 @@
 
 
 
-    
+
 h1 {
         font-family: "Amatic+SC", cursive, sans-serif;
-
+        text-align: center;
         src: url(/Users/Chrystia/Desktop/SullivanWebsite/amatic/Amatic-Bold.ttf);
         font-size: 48px;
 
     color: navy;
     margin-left: 20px;
+}
+
+td.menu {
+  padding: 10px
 }
 
 div {

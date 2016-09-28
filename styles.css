@@ -44,14 +44,18 @@ img.align-center {
 }
 img.small{
   width: 220px;
-  height: 360px;
+  height: 330px;
+}
+img.smallbox{
+  width: 200px;
+  height: 200px;
 }
 img.smalllandscape{
   width: 280px;
   height: 210px;
 }
 img.largelandscape{
-  width: 620px;
+  width: 600px;
   height: 400px;
 }
 

@@ -1,7 +1,5 @@
 
 
-
-
 h1 {
         font-family: "Amatic+SC", cursive, sans-serif;
         text-align: center;
@@ -9,18 +7,19 @@ h1 {
         font-size: 48px;
 
     color: navy;
-    margin-left: 20px;
+    margin-left: 1px;
 }
 
 td.menu {
   padding: 10px
 }
 
-div {
-   font-family: "Amatic+SC";
+td.caption {
+  font-size: 11px;
 }
 
-{font-family: "Caslon", serif;
+div {
+   font-family: "Amatic+SC", sans-serif;
 }
 
 body {
@@ -28,7 +27,7 @@ body {
 }
 
 h2 {
-  color: #7A0019;
+  color: navy;
 }
 
 img.align-left {
@@ -48,7 +47,7 @@ img.small{
   height: 360px;
 }
 img.smalllandscape{
-  width: 330px;
+  width: 280px;
   height: 210px;
 }
 img.largelandscape{

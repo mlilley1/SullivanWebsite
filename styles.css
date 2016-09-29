@@ -29,7 +29,9 @@ body {
 h2 {
   color: navy;
 }
-
+h3 {
+  color: navy;
+}
 img.align-left {
   float: left;
   margin-right: 10px

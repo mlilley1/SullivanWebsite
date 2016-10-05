@@ -18,6 +18,10 @@ td.caption {
   font-size: 11px;
 }
 
+td.pxpad {
+  padding: 10px;
+}
+
 div {
    font-family: "Amatic+SC", sans-serif;
 }
@@ -55,6 +59,10 @@ img.smallbox{
 img.smalllandscape{
   width: 280px;
   height: 210px;
+}
+img.mediumlandscape{
+  width: 340px;
+  height: 255px;
 }
 img.largelandscape{
   width: 600px;

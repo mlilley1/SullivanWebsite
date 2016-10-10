@@ -69,6 +69,18 @@ img.largelandscape{
   height: 400px;
 }
 
+#bookbackground {
+  font-family: "Helvetica", sans-serif;
+  background:url("files/books_img2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 15px;
+  font-size: 21px;
+  opacity: 0.8;
+  width: 100%;
+  height: 100%;
+}
+
 #contact {
   background-color: #FFDE7A;
   padding: 2%;

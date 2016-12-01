@@ -14,6 +14,12 @@ td.menu {
   padding: 10px
 }
 
+table.scratch, th.scratch, td.scratch {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
 td.caption {
   font-size: 11px;
 }

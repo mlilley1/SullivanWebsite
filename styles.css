@@ -87,6 +87,12 @@ img.largelandscape{
   height: 100%;
 }
 
+#instruction {
+  font-family: "Helvetica", sans-serif;
+  font-size: 19px;
+}
+
+
 #contact {
   background-color: #FFDE7A;
   padding: 2%;
